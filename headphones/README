@@ -1,0 +1,81 @@
+🎧 Headphones Landing Page
+Welcome! This is a clean and modern Headphones landing page, built using only HTML, CSS, and a little JavaScript. It's fully responsive, meaning it looks great on both desktop and mobile screens.
+
+📱 About the Project
+This page showcases a fictional headphones brand with stylish design, smooth user interaction, and mobile support. It features:
+
+A full-screen hero section
+
+A responsive navigation bar with a hamburger menu on mobile
+
+A features section with icons
+
+An engaging stats section
+
+A simple contact form
+
+A clean footer with social media icons
+
+💻 How It Works
+Mobile-Friendly: When the screen width is 480px or less, the layout switches to a mobile view with a dropdown menu.
+
+Hover Interactions:
+
+All links change color to #FF6565 when hovered or clicked.
+
+The call-to-action buttons become slightly transparent on hover/click (opacity: 0.9).
+
+Content Layout: All sections are centered and limited to a maximum width of 1000px for readability.
+
+
+
+
+✅ No setup or frameworks needed — just your browser!
+
+🔧 File Structure
+plaintext
+Copy
+Edit
+index.html
+styles.css
+images/
+├── logo_headphones.png
+├── headphones_hero_1.jpg
+├── headphones_hero_2.jpg
+├── sound-frecuency.png
+├── video.png
+├── music.png
+├── hearing.png
+├── facebook.png
+├── twitter.png
+└── instagram.png
+🧠 Built With
+HTML5
+
+CSS3 (including Flexbox and Media Queries)
+
+JavaScript (for the mobile menu toggle)
+
+🌟 Highlights
+No frameworks — all hand-coded
+
+Custom hamburger menu for small screens
+
+Clean and modern layout
+
+Fully responsive and ready to use as a real product homepage
+
+🙌 Want to Improve It?
+You could:
+
+Add form validation to the contact section
+
+Connect it to a back-end or Google Form
+
+Replace the placeholder text with real content
+
+Add animation or transitions for a smoother feel
+
+📝 License
+This project is free to use, modify, and share. No attribution required, but always appreciated.
+
